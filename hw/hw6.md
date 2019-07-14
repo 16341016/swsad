@@ -51,11 +51,11 @@
 
     - 携程预订酒店UML：
 
-    ![携程](https://github.com/16341016/swsad/tree/master/hw/hw6_1.png)
+    ![携程](./hw6_1.png)
 
     - 淘票票订票UML：
 
-    ![淘票票](https://github.com/16341016/swsad/tree/master/hw/hw6_2.png?raw=true)
+    ![淘票票](./hw6_2.png)
 
 - 然后，回答下列问题：     
 ## 1. 为什么相似系统的用例图是相似的？
